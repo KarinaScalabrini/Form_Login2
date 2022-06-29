@@ -1,0 +1,125 @@
+*{
+    background: #191816;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+
+div {
+    height: 400px;
+    border:  1px solid none;
+    background-color: #24221f; 
+    margin: 150px 20px 25px 100px;
+    padding: 20px 50px 50px;  
+    float:left;
+    
+}
+
+p {
+    color:#ffc632;
+    text-align: center;
+    background-color: #24221f;
+}
+
+h1 {
+  font-size: 30px;
+  color:#ffc632;
+  text-align: center;
+  background-color:#24221f ;
+  margin: 5px 5px 5px 
+}
+
+h2 {
+    
+    margin-top: 5px;
+    font-size: 15px;
+    color:antiquewhite;
+    text-align: center;
+    background-color:#24221f ;
+}
+
+
+/*.content { 
+    margin: 0px 0px ;
+    border: 1px solid #a80505;
+    
+     
+}*/
+
+
+button {
+    background-color: #ffc632;
+    border: none;
+    padding: 15px 179px ;
+    font-size: 16px ;
+    
+}
+#email {
+    padding: 10px 127px ;
+    border: 1px solid #ffc632;
+    background-color:#24221f ;
+    text-align: center;
+    color:antiquewhite ;
+    
+}
+
+.email {
+    background-color:#24221f ;
+    padding: 10px ;
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+#password {
+    padding: 10px 127px ;
+    border: 1px solid #ffc632;
+    background-color:#24221f ;
+    text-align: center;
+    color:antiquewhite ;
+}
+
+.password {
+    background-color: #24221f;
+    padding: 10px ;
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+
+.subscribe {
+    background-color: #24221f;
+    padding-right: 155px;
+}
+
+/*#box2 {
+    padding: 10px 10px 0px 10px ;
+    background-color: #191816;
+       
+}*/
+
+/*#box1 {
+    width: 400px;
+    margin: 5px 40px 50px;
+    padding: 30px ;
+    
+    
+    
+}*/
+
+.link {
+    background-color: #24221f;
+}
+
+.link2 {
+    background-color: #24221f;
+    text-align: right;
+    
+}
+div, aside {
+    display: inline-block;
+}
+aside {
+    
+    float: right;
+}
+
